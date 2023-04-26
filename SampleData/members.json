@@ -1,0 +1,19 @@
+{
+  "-MiBsBKGWFEU-yluJkL-": {
+    "party_id": "-MiBt86VzkC-EGmJnxjm",
+    "firebaseKey": "-MiBsBKGWFEU-yluJkL-",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91+NBrXG-PL.jpg",
+    "description": "",
+    "status": false,
+    "char_name": "Baron Otto Von Chubbs",
+    "class": "Puggidin",
+    "level": "20",
+    "strength": "20",
+    "dexterity": "20",  
+    "constitution": "20", 
+    "intelligence": "20", 
+    "charisma": "20",
+    "wisdom": "20",
+    "uid": ""
+  }
+}
